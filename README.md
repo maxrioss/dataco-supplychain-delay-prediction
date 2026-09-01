@@ -36,3 +36,8 @@ El análisis de características determinó que el **modo de envío estándar**,
    ```bash
    git clone [https://github.com/tu-usuario/dataco-supplychain-delay-prediction.git](https://github.com/tu-usuario/dataco-supplychain-delay-prediction.git)
    cd dataco-supplychain-delay-prediction
+
+2. Instalar dependencias:
+  ```bash
+  pip install streamlit pandas joblib scikit-learn
+
