@@ -2,6 +2,15 @@
 
 Este proyecto implementa un modelo de Machine Learning de extremo a extremo para predecir si una orden logística sufrirá retrasos en la entrega, permitiendo a la operación tomar decisiones preventivas.
 
+## 🛠️ Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## 📌 Contexto del Problema
 En la industria logística, los retrasos en las entregas generan altos costos operativos y dañan la satisfacción del cliente. El objetivo principal fue construir un clasificador capaz de identificar órdenes en riesgo utilizando variables operativas, geográficas y temporales registradas al momento de generar la compra.
 
