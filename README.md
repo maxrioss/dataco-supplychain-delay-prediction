@@ -47,12 +47,13 @@ El análisis de características determinó que el **modo de envío estándar**,
   streamlit run app.py
 ```
 
-📁 Estructura del Repositorio
-notebooks/: Cuaderno Jupyter con el flujo completo de EDA, limpieza y modelado.
+# 📁 Estructura del Repositorio
 
-app.py: Script de la aplicación interactiva en Streamlit.
+**notebooks/:** Cuaderno Jupyter con el flujo completo de EDA, limpieza y modelado.
 
-random_forest_model.pkl: Modelo Random Forest entrenado y comprimido.
+**app.py:** Script de la aplicación interactiva en Streamlit.
 
-model_columns.pkl: Estructura de columnas requeridas por el modelo.
+**random_forest_model.pkl:** Modelo Random Forest entrenado y comprimido.
+
+**model_columns.pkl:** Estructura de columnas requeridas por el modelo.
 
