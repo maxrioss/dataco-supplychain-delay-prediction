@@ -41,3 +41,16 @@ El análisis de características determinó que el **modo de envío estándar**,
   ```bash
   pip install streamlit pandas joblib scikit-learn
 
+3. Ejecutar la aplicacion:
+  ```bash
+  streamlit run app.py
+
+📁 Estructura del Repositorio
+notebooks/: Cuaderno Jupyter con el flujo completo de EDA, limpieza y modelado.
+
+app.py: Script de la aplicación interactiva en Streamlit.
+
+random_forest_model.pkl: Modelo Random Forest entrenado y comprimido.
+
+model_columns.pkl: Estructura de columnas requeridas por el modelo.
+
