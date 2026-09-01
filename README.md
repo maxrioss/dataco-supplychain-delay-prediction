@@ -40,10 +40,12 @@ El análisis de características determinó que el **modo de envío estándar**,
 2. Instalar dependencias:
   ```bash
   pip install streamlit pandas joblib scikit-learn
+```
 
 3. Ejecutar la aplicacion:
   ```bash
   streamlit run app.py
+```
 
 📁 Estructura del Repositorio
 notebooks/: Cuaderno Jupyter con el flujo completo de EDA, limpieza y modelado.
